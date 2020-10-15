@@ -1,0 +1,22 @@
+{
+  "name": "googlesheetapi",
+  "version": "1.0.0",
+  "description": "discord bot -> google sheet API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcyenikoylu/googleSheetAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcyenikoylu/googleSheetAPI/issues"
+  },
+  "homepage": "https://github.com/mcyenikoylu/googleSheetAPI#readme",
+  "dependencies": {
+    "google-spreadsheet": "^3.0.13"
+  }
+}
