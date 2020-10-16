@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mcyenikoylu/googleSheetAPI#readme",
   "dependencies": {
-    "google-spreadsheet": "^3.0.13"
+    "google-spreadsheet": "^3.0.13",
+    "googleapis": "^39.2.0"
   }
 }
