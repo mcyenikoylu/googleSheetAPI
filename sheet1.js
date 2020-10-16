@@ -34,7 +34,7 @@ async function gsrun(cl){
 
     const docUpdate = {
         spreadsheetId: '1RcLADPxuonv-S5kK1551sqUfT4bfyXftRHe8UgTilX4',
-        range: 'Class Data!H2',
+        range: 'hot new sheet!!A2',
         valueInputOption: 'USER_ENTERED',
         resource: {values: newReqArray}
     }
